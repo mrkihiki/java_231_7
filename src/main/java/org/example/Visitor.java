@@ -9,5 +9,5 @@ public class Visitor {
         private String surname;
         private String phone;
         private List<Book> favoriteBooks;
-        private boolean subscribe;
+        private boolean subscribed;
 }
